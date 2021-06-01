@@ -1,0 +1,16 @@
+{
+  "name": "kiosk-template-edit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "esbuild ./src/index.ts --watch --bundle --outfile=dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "^0.12.5"
+  }
+}

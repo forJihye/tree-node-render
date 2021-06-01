@@ -1,0 +1,53 @@
+{
+  "id": 0,
+  "name": "구찌프로세스",
+  "type": "page",
+  "isOpen": true,
+  "children": [
+    {
+      "id": 0,
+      "name": "전송완료 화면",
+      "type": "page",
+      "isOpen": true,
+      "children": [
+        {
+          "id": 0,
+          "name": "페이지 설명",
+          "type": "group",
+          "isOpen": false,
+          "children": [
+            {
+              "id": 0,
+              "name": "group1",
+              "type": "group",
+              "isOpen": false,
+              "children": [
+                {
+                  "id": 0,
+                  "name": "text1",
+                  "type": "text",
+                  "isOpen": false,
+                  "children": []
+                },
+                {
+                  "id": 1,
+                  "name": "button1",
+                  "type": "rect",
+                  "isOpen": false,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "스크린(2427x1370)",
+          "type": "text",
+          "isOpen": false,
+          "children": []
+        }
+      ]
+    }
+  ]
+}
